@@ -1,0 +1,15 @@
+echo "# Asterisk-developer" >> README.md
+git init
+git add README.md
+
+/¡Hola coders! Trabajo de la mano con una empresa mexicana orientada a crear 
+/nuevas funcionalidades de Asterisk y agregar valor a las comunicaciones VoIP. 
+/Buscamos desarrolladores de C, colaborar por una jugosa recompensa, 
+/como autónomos o a tiempo completo. Ponte en contacto para conocernos.
+/Envíe su currículum a jesus.daniel@taltere.com o 
+/póngase en contacto enviando una invitación a https://www.linkedin.com/in/jesdanielzamora/
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jesdaniel64/Asterisk-developer.git
+git push -u origin main
